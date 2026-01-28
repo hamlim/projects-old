@@ -19,7 +19,7 @@
     "@matthamlin/reroute-core": "*",
     "@matthamlin/simple-cache": "*",
     "@matthamlin/use-error": "*",
-    "next": "15.4.10",
+    "next": "16.1.5",
     "react": "0.0.0-experimental-e5d06e34b",
     "react-dom": "0.0.0-experimental-e5d06e34b"
   }
