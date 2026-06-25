@@ -13,7 +13,7 @@
     "directory": "packages/native-bundler-core"
   },
   "dependencies": {
-    "@babel/core": "7.0.1",
+    "@babel/core": "7.29.6",
     "@babel/traverse": "7.0.0",
     "@matthamlin/native-bundler-plugin-css": "*",
     "@matthamlin/native-bundler-plugin-js": "*",
